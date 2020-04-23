@@ -1,0 +1,22 @@
+{
+  "name": "covid19-stat",
+  "version": "1.0.0",
+  "description": "example nuxt framwork",
+  "author": "puthinan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.5.0",
+    "axios": "^0.19.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0",
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
