@@ -1,2 +1,2 @@
 # nuxt-covid19
- สำหรับลองใช้ nuxt framwork
+ สำหรับใช้ nuxt framwork สร้าง Covid19 tracking
